@@ -145,3 +145,11 @@ Consider adding additional redirector protections using GeoIP restrictions (mod_
 - [Adam Brown - Resilient Red Team HTTPS Redirection Using Nginx](https://coffeegist.com/security/resilient-red-team-https-redirection-using-nginx/)
 
 - [Apache - Apache mod_rewrite Documentation](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
+
+------------------------------------------
+
+## ptf569 update
+
+Inline with GNU General Public License v3.0, the below modifications have been made to the code:
+
+- tweak of code to define them as functions
